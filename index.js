@@ -19,4 +19,4 @@ else if (nivelHeroi >= 9001 && nivelHeroi <= 10000) {
 else {
     nivel = "Radiante"}
 
-console.log("O herói de nome ${nome} está no nível ${nivel}")
+console.log("O herói de nome ${nomeHeroi} está no nível ${nivel}")
